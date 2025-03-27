@@ -29,72 +29,19 @@ Create a library that calculates the **nutritional score** of a Pahari meal (sim
 3. **Showcase Metrics**:
    - Report CPU usage (e.g., via `top` or `htop`) and response time (from load test).
 
-## Features
 
-- **JavaScript**: Async operations (use `async/await`), event-driven programming.
-- **Rust**: Memory safety, zero-cost abstractions, multi-threading (use `rayon` for parallel calculations).
 
 ## How to Run
 
 ### JavaScript
-1. Install Node.js (v18+ recommended).
+1. Install Node.js.
 2. Clone the repository.
 3. Navigate to the `js` folder.
-4. Run `npm install` (if dependencies like Express are used).
+4. Run `npm install`.
 5. Run `node nutritional_score.js`.
 
-### Rust
-1. Install Rust (via `rustup`, stable channel).
-2. Clone the repository.
-3. Navigate to the `rust` folder.
-4. Run `cargo run --release` (release mode for optimized performance).
 
-## Performance Comparison (Example)
+##  My Output Is Below
 
-| Metric                          | JavaScript (Node.js) | Rust         |
-|---------------------------------|----------------------|--------------|
-| Nutritional Score (10,000 calculations) | 20 ms             | 6 ms         |
-| Memory Usage                    | 50 MB               | 20 MB        |
-| Scalability (Load Test)         | 1000 requests/sec   | 2000 requests/sec |
-| Average Response Time           | 10 ms               | 3 ms         |
+![alt text](<Screenshot from 2025-03-27 08-16-38.png>)
 
-**Note**: These metrics were measured on a system with 8GB RAM, 4-core CPU (2.4 GHz), Ubuntu 20.04. Your results may vary—document your setup.
-
-## Evaluation Criteria
-
-Your submission will be evaluated on:
-
-- **Performance (40%)**: Speed (execution time) and memory usage for 10,000 calculations.
-- **Scalability (20%)**: Load test results (requests/sec, response time).
-- **Code Quality (20%)**: Readability, documentation, and error handling.
-- **Testing (10%)**: Include unit tests (e.g., `mocha` for JS, `cargo test` for Rust).
-- **Relevance (10%)**: How well your implementation aligns with MountainKid’s needs (e.g., scalability for 10M Phunsuk users).
-
-## Bonus (Optional)
-
-- Optimize the Rust implementation using multi-threading (e.g., `rayon` crate).
-- Add a caching mechanism (e.g., memoization) to avoid recalculating the same meal scores.
-
-## Submission Guidelines
-
-- Submit your code via a pull request to this repository by **March 30, 2025, 11:59 PM IST**.
-- Include a `README.md` in your submission folder with:
-  - How to run your code.
-  - Your performance metrics (execution time, memory usage, load test results).
-  - A brief explanation of your approach and optimizations.
-- Shortlisted candidates will be interviewed from **April 1-5, 2025**.
-
-## Conclusion
-
-- **JavaScript** is great for quick prototyping and event-driven apps (e.g., Sari’s frontend).
-- **Rust** is ideal for high-performance, scalable systems (e.g., Phunsuk’s AI backend for 10M users).
-
-At MountainKid, we use both to build the future of Himachal Pradesh—join us to make an impact!
-
-## Contributing
-
-Feel free to submit pull requests with optimizations, improvements, or suggestions. For questions, email [hello@mountainkid.ai].
-
-## Thank You
-
-We’re excited to see your skills and welcome you to MountainKid’s mission of serving 10M MountainKid Valley users by 2035!
