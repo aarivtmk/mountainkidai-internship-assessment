@@ -1,0 +1,25 @@
+[package]
+name = "nutritional_score"
+version = "0.1.0"
+edition = "2021"
+authors = ["MountainKid Intern"]
+description = "MountainKid Nutritional Score Calculator - Rust Implementation"
+
+[dependencies]
+actix-web = "4.4"
+actix-cors = "0.6"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+rayon = "1.8"
+rand = "0.8"
+env_logger = "0.10.0"
+log = "0.4.17"
+sysinfo = "0.29"
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+
+[dev-dependencies]
+criterion = "0.5" 
