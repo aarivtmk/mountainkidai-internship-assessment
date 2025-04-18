@@ -244,10 +244,4 @@ I'd love to hear your thoughts and suggestions! Feel free to:
 - Request enhancements
 - Share your ideas
 
-## License
 
-This project is licensed under the MIT License.
-
-## Final Thoughts
-
-Working on this project has been an incredible learning experience. It's shown me the importance of choosing the right tool for the job and has deepened my understanding of performance optimization. I'm excited to continue improving this project and applying these learnings to MountainKid's mission of serving 10M users by 2035! 
