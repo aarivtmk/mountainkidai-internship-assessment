@@ -1,7 +1,5 @@
 # MountainKid Nutritional Score Calculator 
 
-Hey there! 👋 I'm excited to share this project that demonstrates the fascinating performance differences between JavaScript and Rust implementations of a nutritional score calculator. This project is particularly close to my heart as it combines my passion for performance optimization with practical, real-world applications.
-
 ## Project Overview
 
 I've implemented a nutritional score calculator API in two different ways, each with its own strengths:
