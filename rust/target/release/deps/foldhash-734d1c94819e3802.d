@@ -1,0 +1,11 @@
+C:\Users\kumar\Desktop\assignment mountain kid\rust\target\release\deps\libfoldhash-734d1c94819e3802.rmeta: C:\Users\kumar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\foldhash-0.1.5\src\lib.rs C:\Users\kumar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\foldhash-0.1.5\src\fast.rs C:\Users\kumar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\foldhash-0.1.5\src\quality.rs C:\Users\kumar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\foldhash-0.1.5\src\seed.rs C:\Users\kumar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\foldhash-0.1.5\src\convenience.rs
+
+C:\Users\kumar\Desktop\assignment mountain kid\rust\target\release\deps\libfoldhash-734d1c94819e3802.rlib: C:\Users\kumar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\foldhash-0.1.5\src\lib.rs C:\Users\kumar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\foldhash-0.1.5\src\fast.rs C:\Users\kumar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\foldhash-0.1.5\src\quality.rs C:\Users\kumar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\foldhash-0.1.5\src\seed.rs C:\Users\kumar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\foldhash-0.1.5\src\convenience.rs
+
+C:\Users\kumar\Desktop\assignment mountain kid\rust\target\release\deps\foldhash-734d1c94819e3802.d: C:\Users\kumar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\foldhash-0.1.5\src\lib.rs C:\Users\kumar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\foldhash-0.1.5\src\fast.rs C:\Users\kumar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\foldhash-0.1.5\src\quality.rs C:\Users\kumar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\foldhash-0.1.5\src\seed.rs C:\Users\kumar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\foldhash-0.1.5\src\convenience.rs
+
+C:\Users\kumar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\foldhash-0.1.5\src\lib.rs:
+C:\Users\kumar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\foldhash-0.1.5\src\fast.rs:
+C:\Users\kumar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\foldhash-0.1.5\src\quality.rs:
+C:\Users\kumar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\foldhash-0.1.5\src\seed.rs:
+C:\Users\kumar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\foldhash-0.1.5\src\convenience.rs:

@@ -1,0 +1,1 @@
+C:\Users\kumar\Desktop\assignment\ mountain\ kid\rust\target\release\nutritional_score.exe: C:\Users\kumar\Desktop\assignment\ mountain\ kid\rust\src\lib.rs C:\Users\kumar\Desktop\assignment\ mountain\ kid\rust\src\main.rs
